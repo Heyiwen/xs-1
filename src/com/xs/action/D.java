@@ -8,6 +8,7 @@ public class D {
 		for(int i=1;i<=10;i++){
 			System.out.println("爽----");
 			System.out.println("成员A");
+			System.out.println("新用户搞得一点代码");
 		}
 	}
 

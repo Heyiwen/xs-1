@@ -7,6 +7,7 @@ public class D {
 		System.out.println("123123");
 		for(int i=1;i<=10;i++){
 			System.out.println("爽----");
+			System.out.println("成员A");
 		}
 	}
 
